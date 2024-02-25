@@ -25,3 +25,4 @@ Any modern version of Visual Studio should work. You might need to download [thi
 
 ## Screenshots
 ![alt text](https://github.com/Klocman/Bulk-Crap-Uninstaller/raw/gh-pages/assets/1.png)
+![alt text](https://github.com/Klocman/Bulk-Crap-Uninstaller/raw/gh-pages/assets/2.png)
