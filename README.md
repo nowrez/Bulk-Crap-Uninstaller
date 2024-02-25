@@ -24,4 +24,4 @@ Please check the [contribution](CONTRIBUTING.md) notes!
 Any modern version of Visual Studio should work. You might need to download [this](https://github.com/Klocman/UpdateSystem) and [this ](https://sourceforge.net/p/kloctoolslibrary/) library separately. If you don't want to make any changes in them you can point the projects to .dll files from the latest release of BCU instead.
 
 ## Screenshots
-![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
+![alt text](https://github.com/Klocman/Bulk-Crap-Uninstaller/raw/gh-pages/assets/1.png)
