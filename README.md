@@ -17,10 +17,6 @@ Bulk Crap Uninstaller is licensed under Apache 2.0 open source license, and can 
 
 [Read the online documentation](https://htmlpreview.github.io/?https://github.com/Klocman/Bulk-Crap-Uninstaller/blob/master/doc/BCU_manual.html) if you have any questions or issues (the help file included with all releases). If you didn't find an answer to your question, feel free to [open a new issue](https://github.com/Klocman/Bulk-Crap-Uninstaller/issues/new).
 
-## Download
-[Download from FossHub](http://c99140ft.beget.tech/BCUninstaller_5.7_setup.exe)
-
-
 ## How can I help?
 Please check the [contribution](CONTRIBUTING.md) notes!
 
@@ -28,3 +24,5 @@ Please check the [contribution](CONTRIBUTING.md) notes!
 Any modern version of Visual Studio should work. You might need to download [this](https://github.com/Klocman/UpdateSystem) and [this ](https://sourceforge.net/p/kloctoolslibrary/) library separately. If you don't want to make any changes in them you can point the projects to .dll files from the latest release of BCU instead.
 
 ## Screenshots
+https://github.com/Klocman/Bulk-Crap-Uninstaller/raw/gh-pages/assets/1.png
+https://github.com/Klocman/Bulk-Crap-Uninstaller/raw/gh-pages/assets/4.png
